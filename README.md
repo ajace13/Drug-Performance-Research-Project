@@ -1,4 +1,4 @@
-# Vaccine-Research-Project
+# Drug Performance Research Project
 This research project aims to investigate the effects of various drugs and performance-enhancing substances on human physiology and performance outcomes. By examining both clinical trial data and real-world usage reports, the goal is to determine which substances provide the most significant performance benefits, identify their potential side effects, and clarify the tradeoffs involved in their use.
 
 ## Objectives 
