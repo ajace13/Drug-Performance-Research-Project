@@ -8,14 +8,7 @@ This research project aims to investigate the effects of various drugs and perfo
 - Determine a risk-benefit profile for each substance to help guide informed decision-making.
 
 ## Questions
-* What countries used the most vaccines?
-* What was the average cost of vaccinations by nation?
-* What types of vaccines were used over time (time-series)
-* When did we see spikes in vaccines usage and what happened contextually
-* What were common causes of COVID-19 case spreads?
-* What traits of countires were most correlated with the spread and mitigation of Covid-19?
-* Best and worst handlers of the vaccine?
-
+* (ADD Questions we want to answer)
 ## Methods
 * Data analysis
 * Data visualization
@@ -25,7 +18,7 @@ This research project aims to investigate the effects of various drugs and perfo
 
 ## About the Dataset
 This dataset was taken compiled from two datasets of cdc data regarding drug effectiveness and drugs.com, relaying reception and descriptions of various drugs.
-
+Source: https://www.kaggle.com/datasets/jithinanievarghese/drugs-side-effects-and-medical-condition
 ### Major Column Descriptors:
 
 #### generic_name:
