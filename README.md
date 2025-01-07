@@ -1,6 +1,6 @@
 # Drug Performance Research Project
 ## Abstract
-This research project aims to investigate the effects of various drugs and performance-enhancing substances on human physiology and performance outcomes. By examining both clinical trial data and real-world usage reports, the goal is to determine which substances provide the most significant performance benefits, identify their potential side effects, and clarify the tradeoffs involved in their use.
+This research project aimed to examine the effectiveness and tradeoffs of various drugs by combining user feedback (ratings and reviews) with medication attributes (e.g., side effects, pregnancy category, CSA scheduling) across a wide range of medical conditions. After cleaning and organizing a dataset containing drug names, associated conditions, ratings, and textual side-effect data, we employed grouping and sorting techniques to identify the highest-rated drugs within each condition. We then constructed a custom scoring framework, incorporating a severity scale for side effects, to account for both user satisfaction and potential adverse effects. These analyses enabled a more holistic ranking of treatments, illuminating how certain highly rated drugs may have undesirable side effects, while others strike a more balanced efficacy-risk profile. Ultimately, our work provides a systematic approach to inform drug-selection decisions, offering insights into the interplay between user satisfaction, side-effect severity, and broader medication characteristics.
 
 ## Objectives 
 - Identify commonly used performance-enhancing substances and drugs.
@@ -8,8 +8,6 @@ This research project aims to investigate the effects of various drugs and perfo
 - Evaluate potential side effects, health risks, and long-term outcomes.
 - Determine a risk-benefit profile for each substance to help guide informed decision-making.
 
-## Questions
-* (ADD Questions we want to answer)
 ## Methods
 * Data analysis
 * Data visualization
