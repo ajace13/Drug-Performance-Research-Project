@@ -62,5 +62,5 @@ For ratings, users were asked how effective they found the medicine while consid
 
 ## Authors
 
-- **Connor Long** (clong@gprep.) 
+- **Connor Long** (clong@gprep.org) 
 - **Aidan Long** (aidanjl1@uchicago.edu)  
