@@ -1,4 +1,5 @@
 # Drug Performance Research Project
+## Abstract
 This research project aims to investigate the effects of various drugs and performance-enhancing substances on human physiology and performance outcomes. By examining both clinical trial data and real-world usage reports, the goal is to determine which substances provide the most significant performance benefits, identify their potential side effects, and clarify the tradeoffs involved in their use.
 
 ## Objectives 
@@ -61,3 +62,7 @@ X = Interacts with Alcohol.
 #### rating:
 For ratings, users were asked how effective they found the medicine while considering positive/adverse effects and ease of use (1 = not effective, 10 = most effective).
 
+## Authors
+
+- **Connor Long** (clong@gprep.) 
+- **Aidan Long** (aidanjl1@uchicago.edu)  
